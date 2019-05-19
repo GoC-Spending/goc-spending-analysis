@@ -1,4 +1,5 @@
 owner_acronym,source_year,total_entries,total_contracts,total_amendments
+agr,2016,1,1,0
 csa,2008,32,32,0
 csa,2009,16,16,0
 csa,2010,9,9,0
@@ -39,6 +40,7 @@ gac,2016,1,1,0
 gac,2017,1,1,0
 ic,2010,1,1,0
 ic,2011,1,1,0
+inac,2017,1,1,0
 nrc,2010,1,1,0
 nrc,2011,1,1,0
 nrc,2012,3,2,1
@@ -63,3 +65,5 @@ pspc,2010,2,2,0
 pspc,2011,3,3,0
 pspc,2012,1,1,0
 pspc,2013,1,1,0
+rcmp,2009,1,1,0
+stats,2016,1,1,0
